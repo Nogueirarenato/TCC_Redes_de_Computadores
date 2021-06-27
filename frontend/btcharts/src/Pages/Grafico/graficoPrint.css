@@ -1,0 +1,36 @@
+
+
+@media print {
+
+.noPrint{
+    background-color: rgba(0, 0, 0, 0);
+}
+
+
+body{
+    background: url('../../Assets/img/TituloRel.png')no-repeat ;
+    background-position: top;
+}
+
+.fundoHostGroup{
+    background-color: rgba(0, 0, 0, 0);
+    margin-top: 2cm;
+    margin-left: 40%;
+}
+
+.cabecalho{
+   margin-top: 7cm;
+   font-size: 1.3em;
+   margin-left: 50px;
+}
+
+.graficos{
+   
+    background-color: #0a6425;
+}
+
+}
+
+
+
+
